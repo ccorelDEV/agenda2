@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/InicioServicio"
+            android:title="@string/InicioAdmin"
+            android:icon="@drawable/uno_ico"/>
+
+        <item
+            android:id="@+id/CreaServicio"
+            android:title="@string/CreaServicio"
+            android:icon="@drawable/dos_ico"/>
+
+        <item
+            android:id="@+id/EditaServicio"
+            android:title="@string/EditaServicio"
+            android:icon="@drawable/tres_ico"/>
+
+        <item
+            android:id="@+id/EliminaServicio"
+            android:title="@string/EliminaServicio"
+            android:icon="@drawable/cuatro_ico"/>
+
+        <item
+            android:id="@+id/Salir"
+                android:title="@string/Salir"
+            android:icon="@drawable/cinco_ico"/>
+
+        //temporal borrar, debe estar en su propio fragment
+        <item
+            android:id="@+id/RegistraProveedor"
+            android:title="@string/RegistraProveedor"
+            android:icon="@drawable/seis_ico"/>
+
+
+    </group>
+</menu>

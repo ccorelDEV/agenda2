@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "844265937436",
+    "project_id": "agenda2-ec365",
+    "storage_bucket": "agenda2-ec365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844265937436:android:2a405aae894d2fa39b9dd9",
+        "android_client_info": {
+          "package_name": "cl.ccorel.agenda2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844265937436-f0q93gi1tomn0g4j516461b2nk33l71k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.ccorel.agenda2",
+            "certificate_hash": "8479697365febbe18ab8fcca7980c01a2446832d"
+          }
+        },
+        {
+          "client_id": "844265937436-2jolbm17l60i2vf4gkbes6ps2rj40o73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOCRk9LanhjSY7Ib4qc7Zx1DD-Miu2K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844265937436-2jolbm17l60i2vf4gkbes6ps2rj40o73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

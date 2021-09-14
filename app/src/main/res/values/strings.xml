@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Agenda2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="desarrollador">dev : ccorel</string>
+
+    <!--Menu de opcion admin o proveedor-->
+    <string name="InicioAdmin">Inicio</string>
+    <string name="RegistraProveedor">Registrar</string>
+    <string name="CreaServicio">Crea Servicio</string>
+    <string name="EditaServicio">Edita Servicio</string>
+    <string name="EliminaServicio">Elimina Servicio</string>
+    <string name="Salir">Salir</string>
+
+
+    <!--Menu de opcion cliente-->
+    <string name="InicioCliente">Inicio</string>
+    <string name="RegistraCliente">Registrar</string>
+    <string name="AgendaHora">Agenda Hora</string>
+    <string name="EliminaHora">Elimina Hora</string>
+    <string name="SalirCli">Salir</string>
+    <string name="HorasAgendadas">Horas Agendadas</string>
+
+    <!--Registro Proveedor-->
+    <string name="RegistroTxt">Registro de Proveedores</string>
+    <string name="Email">Correo Electronico</string>
+    <string name="Password">Contraseña</string>
+    <string name="RutP">Rut</string>
+    <string name="Name">Nombre</string>
+    <string name="LastName">Apellido</string>
+    <string name="DateRegister">Fecha de Registro</string>
+    <string name="Register">Registrar</string>
+
+    <!--Registro Cliente-->
+    <string name="RegistroTxtCL">Registro de Clientes</string>
+    <string name="EmailCl">Correo Electronico</string>
+    <string name="PasswordCL">Contraseña</string>
+    <string name="RutC">Rut</string>
+    <string name="NameCl">Nombre</string>
+    <string name="LastNameCl">Apellido</string>
+    <string name="Acceder">Acceder</string>
+
+    <!-- login proveedor-->
+    <string name="LoginTXT">Login de Proveedores</string>
+    <string name="Ingresar">Ingreso</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
