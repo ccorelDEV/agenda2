@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/InicioCliente"
+            android:title="@string/InicioAdmin"
+            android:icon="@drawable/uno_ico"/>
+
+        <item
+            android:id="@+id/AgendaHora"
+            android:title="@string/AgendaHora"
+            android:icon="@drawable/dos_ico"/>
+
+        <item
+            android:id="@+id/EliminaHora"
+            android:title="@string/EliminaHora"
+            android:icon="@drawable/tres_ico"/>
+
+        <item
+            android:id="@+id/Salir"
+            android:title="@string/SalirCli"
+            android:icon="@drawable/cuatro_ico"/>
+
+        <item
+            android:id="@+id/HorasAgendadas"
+            android:title="@string/HorasAgendadas"
+            android:icon="@drawable/cinco_ico"/>
+
+
+    </group>
+
+</menu>
